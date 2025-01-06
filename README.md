@@ -1,14 +1,15 @@
 I build a lot of AI @ MIT. I also do business, music, and athletics on the side. 
 
-Creatively, reach me at jefflincreates@gmail.com. Ventures, reach me at jeff@wesimplycode.org. 
+Creatively, reach me at jefflincreates@gmail.com. 
 
+Ventures, reach me at jeff@wesimplycode.org. 
 
 
 **Challenges:**
 
-365 Days = 365 Commits
+:dart: 365 Days = 365 Commits
 
-100 Projects in 100 Days 
+:dart: 100 Projects in 100 Days 
 
 <!--
 **jeffelin/jeffelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
