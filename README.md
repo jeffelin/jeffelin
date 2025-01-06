@@ -4,7 +4,7 @@ Creatively, reach me at jefflincreates@gmail.com. Ventures, reach me at jeff@wes
 
 
 
-Challenges: 
+**Challenges:**
 
 365 Days = 365 Commits
 
