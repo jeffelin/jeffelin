@@ -1,4 +1,4 @@
-I build a lot of AI @ MIT. I also do business, music, and athletics on the side. 
+I build a lot of AI @ MIT. I also do business, music, and athletics.
 
 Creatively, reach me at jefflincreates@gmail.com. 
 
