@@ -1,4 +1,4 @@
-🔭 Currently On Break!
+🔭 Building + Learning :).
 
 I build a lot of AI @ MIT. I also do business, music, and athletics. 
 
