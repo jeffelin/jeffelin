@@ -1,6 +1,6 @@
-🔭 Building + Learning :).
+🔭 Building for good :).
 
-I build a lot of AI @ MIT. I also do business, music, and athletics. 
+I build startups, research projects, and open source contributions @ MIT.
 
 
 
