@@ -1,4 +1,4 @@
-🔭 Building for good :).
+🔭 Building with love :).
 
 I build startups, research projects, and open source contributions @ MIT.
 
