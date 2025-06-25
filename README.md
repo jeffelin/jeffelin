@@ -1,6 +1,6 @@
-🔭 Creating with love :).
+🔭 Creating with passion. 
 
-I build startups, research projects, and open source contributions @ MIT.
+I build cool projects @ MIT.
 
 
 
