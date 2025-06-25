@@ -1,7 +1,6 @@
-🔭 Creating with passion. 
-
 I build cool projects @ MIT.
 
+Made with ❤️.
 
 
 <!--
