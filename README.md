@@ -1,6 +1,4 @@
-I build cool projects @ MIT. I'm currently tinkering with VLMs and AgentOps. 
-
-Made with ❤️.
+Building with ❤️.
 
 
 <!--
