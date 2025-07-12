@@ -2,6 +2,8 @@ First Year AI @ MIT building useful ai agents.
 
 Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell, published ML @ CMU.
 
+<br><br>
+
 ![Never Stop Coding](neverstopcoding.jpg)
 
 <!--
