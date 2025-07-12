@@ -5,7 +5,7 @@ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cor
 <br>
 
 <div align="center">
-  <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="500"/>
+  <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="400"/>
 </div>
 
 <!--
