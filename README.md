@@ -4,7 +4,7 @@ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cor
 
 <br>
 
-![Never Stop Coding](neverstopcoding.jpg)
+<img src="neverstopcoding.jpg" alt="Never Stop Coding" width="300"/>
 
 <!--
 **jeffelin/jeffelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
