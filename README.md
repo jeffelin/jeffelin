@@ -1,4 +1,4 @@
-First Year AI @ MIT building LLMs, VLMs, browser agents, and open source. 
+First Year AI @ MIT building LLMs, VLMs, RL, browser agents, and open source. 
 
 Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell, published ML @ CMU.
 
