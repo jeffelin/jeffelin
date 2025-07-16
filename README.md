@@ -1,24 +1,45 @@
-First Year AI @ MIT building LLMs, VLMs, RL, browser agents, and open source. 
+# 👋 Hey, I'm Jeff!
 
-Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell, published ML @ CMU.
+🧠 First-Year AI @ MIT building LLMs, VLMs, RL agents, browser agents, and open source tools  
+🛠️ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell  
+📄 Published machine learning research @ CMU  
+🌍 Passionate about democratizing AI, cognition, and infrastructure for the future  
 
-<br>
+💡 Currently exploring AGI, systems design, and startup building  
+🚀 Always prototyping, iterating, and shipping fast  
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=jeffelin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+# 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br/>
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+# 🧠 Favorite Problems to Solve
+
+- 🤖 Designing intelligent agents that can reason, learn, and act
+- 🔍 Building fast, human-centered UIs for AI interaction
+- 🌱 Scaling access to hands-on tech education and research
+- ⚙️ Optimizing systems for performance and creativity
+
+<br/>
 
 <div align="center">
   <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="400"/>
 </div>
 
 <!--
-**jeffelin/jeffelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**jeffelin/jeffelin** is a ✨ special ✨ repo because its README.md shows up on your profile.
+Want to learn how to make yours like this? Watch [this tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)!
 -->
