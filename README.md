@@ -2,7 +2,7 @@
 
 🧠 Incoming AI student @ MIT with LLMs, VLMs, RL agents, and browser automation<br>
 📄 Research published @ CMU on ML & embedded systems<br>
-🔧 Past experience: SWE intern @ CodeDay Labs • PM intern @ CBK • Research @ Cornell<br>
+🔧 Past experience: SWE intern @ CodeDay Labs, PM intern @ CBK, Research @ Cornell<br>
 
 # 🧰 Tech Stack
 
@@ -24,6 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-000000?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 
 
 <br/>
