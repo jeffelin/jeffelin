@@ -23,13 +23,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-# 🧠 Favorite Problems to Solve
-
-- 🤖 Designing intelligent agents that can reason, learn, and act
-- 🔍 Building fast, human-centered UIs for AI interaction
-- 🌱 Scaling access to hands-on tech education and research
-- ⚙️ Optimizing systems for performance and creativity
-
 <br/>
 
 <div align="center">
