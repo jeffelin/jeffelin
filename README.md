@@ -3,10 +3,6 @@
 🧠 First-Year AI @ MIT building LLMs, VLMs, RL agents, browser agents, and open source tools  
 🛠️ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell  
 📄 Published machine learning research @ CMU  
-🌍 Passionate about democratizing AI, cognition, and infrastructure for the future  
-
-💡 Currently exploring AGI, systems design, and startup building  
-🚀 Always prototyping, iterating, and shipping fast  
 
 # 🧰 Tech Stack
 
