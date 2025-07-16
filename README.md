@@ -8,9 +8,6 @@
 💡 Currently exploring AGI, systems design, and startup building  
 🚀 Always prototyping, iterating, and shipping fast  
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=jeffelin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 # 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
