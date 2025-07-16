@@ -28,13 +28,13 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="margin-top: 40px; margin-bottom: 20px;">
   <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="400"/>
 </div>
 
-<p align="center">
+<div align="center" style="font-size: 20px; font-weight: bold; margin-top: 30px;">
   ✍️ I also write here: <a href="https://www.jeffcreates.com/writings" target="_blank">jeffcreates.com/writings</a>
-</p>
+</div>
 
 
 <!--
