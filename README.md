@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <h6><strong>✍️ I also write here: <a href="https://www.jeffcreates.com/writings" target="_blank">jeffcreates.com/writings</a></strong></h6>
+  <h4><strong>✍️ I also write here: <a href="https://www.jeffcreates.com/writings" target="_blank">jeffcreates.com/writings</a></strong></h4>
 </div>
 
 
