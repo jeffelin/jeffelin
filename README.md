@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Jeff!
 
-🧠 Incoming AI student @ MIT with LLMs, VLMs, RL agents, and browser automation
-📄 Research published @ CMU on ML & embedded systems
-🔧 Past experience: SWE intern @ CodeDay Labs • PM intern @ CBK • Research @ Cornell
+🧠 Incoming AI student @ MIT with LLMs, VLMs, RL agents, and browser automation<br>
+📄 Research published @ CMU on ML & embedded systems<br>
+🔧 Past experience: SWE intern @ CodeDay Labs • PM intern @ CBK • Research @ Cornell<br>
 
 
 # 🧰 Tech Stack
