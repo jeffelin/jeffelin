@@ -32,8 +32,6 @@
   <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="400"/>
 </div>
 
-<br>
-
 <div align="center">
   <h3><strong>✍️ I also write here: <a href="https://www.jeffcreates.com/writings" target="_blank">jeffcreates.com/writings</a></strong></h4>
 </div>
