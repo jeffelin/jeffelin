@@ -2,7 +2,7 @@
 
 🧠 Incoming AI student @ MIT with LLMs, VLMs, RL agents, and browser automation<br>
 📄 Research published @ CMU on ML & embedded systems<br>
-🔧 Past experience: SWE intern @ CodeDay Labs, PM intern @ CBK, Research @ Cornell<br>
+🔧 Previously SWE intern @ CodeDay Labs, PM intern @ CBK, Research assistant @ Cornell<br>
 
 # 🧰 Tech Stack
 
