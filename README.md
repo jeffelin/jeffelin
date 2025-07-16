@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Jeff!
 
-🧠 First-Year AI @ MIT building LLMs, VLMs, RL agents, browser agents, and open source tools  
+🧠 Incoming AI @ MIT building LLMs, VLMs, RL agents, browser agents, and open source  
 🛠️ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell  
-📄 Published machine learning research @ CMU  
+📄 Published ML research @ CMU  
 
 # 🧰 Tech Stack
 
