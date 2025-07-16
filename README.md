@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Jeff!
 
-🧠 Incoming AI @ MIT building LLMs, VLMs, RL agents, browser agents, and open source  
-🛠️ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell  
-📄 Published ML research @ CMU and working @ Manifold Research
+🧠 Incoming AI @ MIT building LLMs, VLMs, RL agents, browser agents, and open source   
+📄 Published ML and embedded systems research @ CMU 
+🛠️ Previously SWE intern @ Code Day Labs, PM intern @ CBK, research assistant @ Cornell 
 
 # 🧰 Tech Stack
 
