@@ -1,9 +1,3 @@
-# 👋 Hey, I'm Jeff!
-
-🧠 AI @ MIT with LLMs, VLMs, RL agents, RAG, and digital automations<br>
-📄 Research published @ CMU on ML & embedded systems<br>
-🔧 Previously SWE intern @ CodeDay Labs, PM intern @ CBK, Research assistant @ Cornell<br>
-
 # 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
