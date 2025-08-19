@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="600"/>
-</div>
+<!-- Full-width image -->
+<img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:100%; height:auto;"/>
+
+<br/>
 
 <br/>
 
