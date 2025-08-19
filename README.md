@@ -1,5 +1,5 @@
 <!-- Full-width image -->
-<img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:80%; height:auto;"/>
+<img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:90%; height:auto;"/>
 
 <br/>
 
