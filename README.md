@@ -31,10 +31,6 @@
   <img src="neverstopcoding.jpg" alt="Never Stop Coding" width="400"/>
 </div>
 
-<div align="center">
-  <h3><strong>✍️ I also write here: <a href="https://www.jeffcreates.com/writings" target="_blank">jeffcreates.com/writings</a></strong></h3>
-</div>
-
 
 <!--
 **jeffelin/jeffelin** is a ✨ special ✨ repo because its README.md shows up on your profile.
