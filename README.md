@@ -1,10 +1,6 @@
 <!-- Full-width image -->
 <img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:90%; height:auto;"/>
 
-<br/>
-
-<br/>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
