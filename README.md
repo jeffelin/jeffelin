@@ -1,5 +1,13 @@
 <!-- Full-width image -->
-https://www.jeffelin.com/
+<h1 align="center">
+  hi im <a href="https://www.jeffelin.com/" target="_blank">jeff</a>
+</h1>
+
+<p align="center">
+  MIT student who turned down Y Combinator at 17.<br/>
+  Built 10+ full-stack projects across AI and web.<br/>
+  Currently researching at Harvard Robotics and MIT on hierarchical imitation learning & world models.
+</p>
 
 <img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:90%; height:auto;"/>
 
