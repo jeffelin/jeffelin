@@ -1,5 +1,6 @@
 <!-- Full-width image -->
 https://www.jeffelin.com/
+
 <img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:90%; height:auto;"/>
 
 <div align="center">
