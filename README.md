@@ -1,7 +1,8 @@
 
 <p>
-Hi! I'm <a href="https://www.jeffelin.com/" target="_blank">jeff</a>, an MIT student building at CSAIl and Harvard Robotics. I've spent my time hacking away over a dozen full-stack projects, turning down Y Combinator at 17. Happy to work together. 
+Hi! I'm <a href="https://www.jeffelin.com/" target="_blank">Jeff</a>, an MIT student building at CSAIl and Harvard Robotics. I've spent my time hacking away over a dozen full-stack projects, turning down Y Combinator at 17. 
 </p>
+
 
 <img src="neverstopcoding.jpg" alt="Never Stop Coding" style="width:90%; height:auto;"/>
 
