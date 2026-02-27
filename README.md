@@ -1,6 +1,6 @@
 
 <p>
-Hi! I'm <a href="https://www.jeffelin.com/" target="_blank">Jeff</a>, an MIT student currently building at CSAIl and Harvard Robotics. I've spent my time hacking away over a dozen full-stack projects, turning down Y Combinator at 17. 
+Hi! I'm <a href="https://www.jeffelin.com/" target="_blank">Jeff</a>, an MIT student currently building at CSAIl and Harvard Robotics.
 </p>
 
 
