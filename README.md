@@ -1,6 +1,6 @@
 
 <p>
-Hi! I'm <a href="https://www.jeffelin.com/" target="_blank">Jeff</a>, an MIT student currently building at CSAIl and Harvard Robotics.
+Hi! I'm <a href="https://www.jeffelin.com/" target="_blank">Jeff</a>, an MIT student currently building at CSAIl and Harvard Robotics. I enjoy taking ownership of ideas, especially in startups (turning down YC at 17). 
 </p>
 
 
